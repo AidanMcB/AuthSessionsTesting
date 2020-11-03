@@ -22,7 +22,7 @@ Production: Not applicable to this repo
 | react-router-dom       | [Link](https://www.jsdelivr.com/package/npm/react-router-dom) |
 | axios                  | [Link](https://www.jsdelivr.com/package/npm/axios)            |
 
-## Front-end Dependencies 
+## Back-end Dependencies 
 | Dependency | URL       |
 |------------|-----------|
 | bcrypt     |           | [Link](https://www.rubydoc.info/github/codahale/bcrypt-ruby/BCrypt/Password) |
