@@ -25,7 +25,7 @@ Production: Not applicable to this repo
 ## Back-end Dependencies 
 | Dependency | URL       |
 |------------|-----------|
-| bcrypt     |           | [Link](https://www.rubydoc.info/github/codahale/bcrypt-ruby/BCrypt/Password) |
+| bcrypt                 | [Link](https://www.rubydoc.info/github/codahale/bcrypt-ruby/BCrypt/Password) |
 
 
 ## Back-end Documentation
