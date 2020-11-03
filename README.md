@@ -1,4 +1,4 @@
-# Auth Session Testing (Rails & React)
+# Auth Sessions Testing (Rails & React)
 Production: Not applicable to this repo
 
 ## Developers
@@ -29,7 +29,7 @@ Production: Not applicable to this repo
 
 
 ## Back-end Documentation
-The back-end is included in this reposity, [but here is a link to it if you're feeling lazy. :D](https://github.com/MatthewPalmer9/AuthSessionsTesting/tree/master/backend/auth-backend)
+The back-end is included in this repository, [but here is a link to it if you're feeling lazy. :D](https://github.com/MatthewPalmer9/AuthSessionsTesting/tree/master/backend/auth-backend)
 
 ## Getting started
 - **Clone this repo**
